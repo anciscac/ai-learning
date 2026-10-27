@@ -3,3 +3,4 @@ day5_rag_app/.env
 day10_pdf_rag/.env
 day9_langchain/.env
 day11_langgraph/.env
+day13_text2sql/.env
