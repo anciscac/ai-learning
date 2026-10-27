@@ -5,3 +5,5 @@ day9_langchain/.env
 day11_langgraph/.env
 day13_text2sql/.env
 day14_search_agent/.env
+day15_vision_agent/.env
+day16_ai_workplace/.env
