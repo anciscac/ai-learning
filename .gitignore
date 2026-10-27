@@ -4,3 +4,4 @@ day10_pdf_rag/.env
 day9_langchain/.env
 day11_langgraph/.env
 day13_text2sql/.env
+day14_search_agent/.env
